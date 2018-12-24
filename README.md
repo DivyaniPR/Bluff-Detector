@@ -1,4 +1,3 @@
-My first project in Python
 
 Objective: 
 To build a bluff detector using regression models that helps HR team of a company in hiring process - salary negotiation. It helps the HR partner to predict the salary of the potentially new employee based on his designation in previous company and how often he shifts companies. This would let the HR team know if the candidate is being honest about the salary quoted and the negotiations.
